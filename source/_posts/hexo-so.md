@@ -12,10 +12,12 @@ tags:
 
 可参考的两篇文章：
 
-[mac osx 下 hexo DTraceProviderBindings 错误](http://www.ixirong.com/2016/08/30/solve-hexo-not-found-problem/)
+* [mac osx 下 hexo DTraceProviderBindings 错误](http://www.ixirong.com/2016/08/30/solve-hexo-not-found-problem/)
 
-[The note of how to rebuild hexo+next blogs when switch to another PC or reinstall system](https://absentm.github.io/2016/08/31/The-note-of-how-to-rebuild-hexo-next-blogs-when-switch-to-another-PC-or-reinstall-system/)
+* [The note of how to rebuild hexo+next blogs when switch to another PC or reinstall system](https://absentm.github.io/2016/08/31/The-note-of-how-to-rebuild-hexo-next-blogs-when-switch-to-another-PC-or-reinstall-system/)
 
 PS：不熟悉Node.js，每次安装都莫名担心会失败。。。
 
 PPS：测试git commit效果。
+
+PPPS：测试Github Pages更新。
