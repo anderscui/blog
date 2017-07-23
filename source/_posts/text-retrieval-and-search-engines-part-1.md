@@ -3,16 +3,14 @@ title: Text Retrieval and Search Engines(1)
 date: 2017-07-04 00:34:11
 tags:
   - Text Retrieval
-  - Search Engine
-  - NLP
+  - Information Retrieval
 
 categories:
   - Text Retrieval
-  - Search Engine
-  - NLP
+  - Information Retrieval
 ---
 
-Coursera课程[文本检索与搜索引擎（Text Retrieval and Search Engines）](https://www.coursera.org/learn/text-retrieval/home/welcome)的学习笔记。
+此文内容整理自Coursera课程[文本检索与搜索引擎（Text Retrieval and Search Engines）](https://www.coursera.org/learn/text-retrieval/home/welcome)。
 
 # 课程结构
 
