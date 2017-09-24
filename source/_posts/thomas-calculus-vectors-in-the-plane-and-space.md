@@ -1,5 +1,5 @@
 ---
-title: thomas calculus - vectors in the plane and space
+title: Thomas' Calculus - 平面与空间中的向量
 date: 2017-09-13 01:37:09
 tags:
 	- Maths
