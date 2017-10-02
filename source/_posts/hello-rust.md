@@ -91,4 +91,43 @@ $ ./target/debug/hello_cargo
 
 上面可见，编译的程序放在了`debug`下，如果要正式发布，则应使用`cargo build --release`选项，这会优化所生成的程序，代价是编译时间更长。
 
+# 开发环境
+
+* Sublime 3：[Sublime Rust](https://github.com/rust-lang/sublime-rust)
+* [IntelliJ Rust](https://intellij-rust.github.io/)
+
+# Guessing Game
+
+通过一个真实的程序来演示几个Rust的常见概念，如`let`， `match`，方法，关联函数，使用外部库等。
+
+猜数游戏是一个经典的编程初学者的问题。
+
+## 建立项目
+
+```shell
+$ cargo new guessing_game --bin
+$ cd guessing_game
+```
+
+## 感受一下
+
+```rust
+use std::io;
+
+fn main() {
+    println!("Guess the number!");
+    println!("Please input your guess.");
+
+    let mut guess = String::new();
+    io::stdin().read_line(&mut guess)
+               .expect("Failed to read line");
+
+    println!("You guessed: {}", guess);
+}
+```
+
+这里面，`use`不用多说；let创建一个**变量**，不过在Rust中变量默认是不可修改的，如果希望修改，则需要使用**mut**；String:new()就是所谓关联函数（associated function），相当于其它语言中的**静态方法**。
+
+`stdin`是io的关联函数；read_line函数读取用户输入，将值赋给一个变量，`&`表示参数为**引用（reference）**。
+
 
