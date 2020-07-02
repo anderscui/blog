@@ -15,6 +15,27 @@ $ curl https://sh.rustup.rs -sSf | sh
 
 运行此命令，按其中的提示安装即可。
 
+## 升级与卸载
+
+```
+$ rustup update
+
+$ rustup self uninstall
+```
+
+## 确认
+
+```
+$ rustc --version
+```
+
+## 本地文档
+
+```
+# 使用此命令在浏览器中打开本地文档，其中包含 The Rust Programming Language.
+$rustup doc
+```
+
 # Hello, World!
 
 假设把代码放在某个目录下，cd到它，创建一个`main.rs`文件（rs是Rust文件的扩展名）：
@@ -36,7 +57,7 @@ $ ./main
 
 `fn`定义一个函数，而`main`同时是特别的**入口函数**，与`C`和`C#`之类语言类似。Rust中的函数需要花括号包含其函数体。
 
-第二行`println!("Hello, world!");`，输出一行文本到屏幕。这里看起来有点特别的是`println!`，带有`!`在Rust中意味着调用宏而非函数。行末的`;`表示一个代码行的结束，**大多数**Rust代码行以`;`结束。
+第二行`println!("Hello, world!");`，输出一行文本到屏幕。这里看起来有点特别的是`println!`，带有`!`在Rust中意味着调用宏而非函数。行末的`;`表示一个表达式的结束，**大多数**Rust代码行以`;`结束。
 
 # 编译和执行的分离
 
@@ -46,7 +67,7 @@ $ ./main
 
 # Cargo
 
-`Cargo`是Rust的生成系统（Build System）和包管理器（Package Manager）。它可以生成代码、下载依赖库，生成库代码。
+`Cargo`是Rust的构建系统（Build System）和包管理器（Package Manager）。它可以生成代码、下载依赖库，生成库代码。
 
 `Cargo`随Rust一起安装。
 
