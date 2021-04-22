@@ -460,10 +460,537 @@ venir 变位：
 
 ## Trois heures du matin?
 
-24小时制在法语中颇为常见，如 `4h00`、`16h00`，但12小时制当然也是可用的。
+24小时制在法语中颇为常见，如 `4h00`、`16h00`，但12小时制也是可用的。
 
 * Le train part à cinq heures du matin.
 * Ils mangent à deux heures de l'après-midi.
+
+# Travel 3 
+
+## Good day, sir.
+
+有两种方式说“你”。在友好的交谈状态或对着孩子时，使用 `tu`；我们已经知道使用 `vous` 表示多于一个人，但它也可以用在较为正式的、与不认识的成年人交谈时。
+
+* Tu aimes le vin? (Do you like wine?)
+* Madame, voyagez-vous avec votre fille?
+
+## S'il te plait vs. s'il vous plait
+
+`vous` 的版本更为正式，两者的字面意思都是 `if it pleases you`。
+
+# Activities 2
+
+## No more silence
+
+很多位于单词结尾处的辅音不发音，但如果它后面的单词开头字面是元音或不发音的 `h`，那么辅音就要发音了。
+
+* les: les enfants
+* grand: grand arbre
+
+那么，例外又来了，`et` 的 `t` 是从来不会发音的。
+
+# Breakfast
+
+## Du thé ou du café?
+
+有些名称是不可数的——我们说 `I want some honey`，而不是 `I want one honey`。在法语中，总是需要在不可数名词前使用 `du/de la/des`。
+
+* Je prends du sucre avec mon café
+* J'achète des pates
+
+## J'adore le chocolat
+
+当我们谈论喜欢（或不喜欢/偏好）什么时，需要在名词之前加上 `le/la/les`。
+
+# Vacation
+
+英语中的 `a` 在元音之前变为 `an`，法语中则是 `ce` 变为 `cet`。
+
+## What are you doing this weekend?
+
+* Je vais voyager.
+* Nous n'allons pas partir.
+
+## Avec moi
+
+在介词（如 `avec` 和 `de`），使用类似于 `moi/toi` 这样的代词（类似于宾格）。
+
+* il: lui
+* ils: eux
+* Ils vont rester chez eux.
+
+# School
+
+## Je ne comprends pas!
+
+以 `-prendre` 结尾的词的变位遵循相同的模式。
+
+## Do you do that in French?
+
+英语中可以用 Do 提出一个问题，如 `Do you love me?`，在法语中则使用 `Est-ce que...`。至此，这个句型是与英语中的疑问句最相符合的。
+
+* Est-ce que tu veux du lait?
+* Est-ce qu'Anne comprend?
+
+# At work
+
+## J'ai besoin de café
+
+`J'ai besoin de` 的字面意思是 `I have the need of ...`，该表达之后可以跟动词和名词。
+
+* Tu as besoin d'étudier.
+
+## Let me finish
+
+很多以 `-ir` 结尾的动词具有相同的变位形式，以 `finir` 为例：
+
+* je/tu finis
+* il/elle finit
+* nous finissons
+* vous finissez
+* ils/ells finissent
+
+## Leur vs. leurs
+
+`leur` 的意思是 `their`，但如果名词为复数，则需要改变为 `leurs`。
+
+# Hotel
+
+## Adjectives
+
+我们已经看到形容词通常位于名词之后，但如果是谈论一下情况，则前置之：
+
+* Beauty (beaux)
+* Age (nouvelle)
+* Goodness (bons)
+* Size (petit/grand)
+
+可以记为 **BAGS**。
+
+## Combien de?
+
+`Combien de?` 用于询问 `How many/much`。
+
+* Combien de journaux voulez-vous?
+* Vous voulez rester combien de nuits?
+
+# Routine
+
+询问 `What are you doing`，使用 `Que fais-tu`，或者更随意一点用 `Tu fais quoi`。
+
+## Je me réveille toujours tard？
+
+介绍自己名字时说 `Je m'appelle Charlotte`，意思是 `I call myself Charlotte`。很多动词都会添加类似于 `me` 的代词，即使在英语中没有类似表达方式。
+
+* je me
+* tu te
+* il/elle se
+* nous nous
+* vous vous
+* ils/ells se
+
+示例：
+
+* Le matin, je me réveille tot
+* Il se couche tard
+
+## Body Language
+
+英语说 `He brushes his teeth`，法语则通常用 `le/la/les` 替代 `my/his`。
+
+* Elle se brosse les cheveux
+
+# Weather
+
+## Quel temps fait-il?
+
+在英语中谈论天气时通常以 `it` 开始，而法语中则是 `il`。
+
+* Il fait chaud (hot/warm)
+* Il neige (snowing)
+* Il y a du vent (windy)
+* Il fait soleil (sunny)
+
+## 'tis the season
+
+说“在”那个季节或月份时，用 `en`，除了春天。
+
+* Je voyage an avril
+* En automne, il fait froid
+* Il fleut au printemps
+
+## Excuses, excuses
+
+当我们想表达 `It's too cold to swim`的意思时，用 `trop ... pour ...`
+
+* Il fait trop froid pour nager
+* Il y a trop de vent pour sortir
+
+# People 5
+
+## I'm taller
+
+在表达 `taller/shorter` 之类的比较级概念时，使用 `plus/moins`。
+
+* Ma fille est plus jenue que toi. (younger than you)
+* Ma fille est moins vieille que toi. (less old than you)
+
+## De quelle couleur sont tes yeux?
+
+在询问 `What color ...?` 时，使用 `De quelle couleur ...`。
+
+* De quelle couleur sont tes yeux?
+
+# Sensations
+
+## Why? Parce que...
+
+使用 `parce que` 表示 `because`，如果其后跟的是元音或静音 h，则使用缩略形式。
+
+* Je suis fatiguée parce que je dors mal.
+
+## Sors avec moi!
+
+使用祈使句，把开头的 tu 去掉。
+
+* Tu dors beaucoup.
+* Dors bien.
+
+# Groceries
+
+## Je suis végétarienne!
+
+在一个否定句（含有 `ne ... pas`）中，`du/de la/des` 都变为 `de/d'`。
+
+* Je mange de la viande
+* Je ne mange pas de viande
+
+## Où sont-ils?
+
+`prés de` 中的 `de` 是包含了 `le/les` 的。
+
+* Les fruits sont prés des légumes.
+
+## Over there?
+
+`là` 表示 `here/right here`，`là-bas` 则只表示 `over there`。
+
+# Shopping 2
+
+## X marks the spot
+
+如果一个词以 `-eau` 结尾，那么它的复数形式是添加一个 `x`。
+
+* les beaux manteaux (jackets)
+* les nouveaux stylos
+
+## Celui-ci ou celui-là
+
+* this one: celui-ci/celle-ci
+* that one: celui-là/celle-là
+* these ones: ceux-ci/cells-ci
+* those ones: ceux-là/cells-là
+
+# City 3
+
+## Attention
+
+告诉某人做某事时，如果动词是以 `-er` 结尾的，如 `marcher`，去掉 `tu` 的变位形式中的 `s`。
+
+* Ne reste pas ici.
+
+而 `vous` 的则保持不变。
+
+## Quel beau bébé
+
+* Quel gentil chien! (What a nice dog)
+
+# Routine 2
+
+## Qu'est ce que tu fais?
+
+询问 `What...?` 的常用方式是 `Qu'est-ce que...?`
+
+* Qu'est-ce que tu lis? (What are you reading)
+
+## That's not faire!
+
+faire 的变位是不规则的。
+
+## Tu ne te lèves pas?
+
+当需要想含有 `me/te` 等词的句子中添加 `ne...pas` 时，应遵循此模式：
+
+* Tu ne te lèves pas tard. (You don't wake up late)
+* Je ne me couche pas tot (TODO)
+
+# Leisure
+
+当你 play 每种乐器时，用的动词是 `jouer de`。
+
+* Tu joues de la guitare?
+* Je joue du piano.
+
+如果是 play 某种运动，则用 `jouer à`。
+
+* Nous jouons au football
+
+## Je ne t'aime plus
+
+`ne ... pas` 中的 `pas` 可替换为诸如 `jamais/rien/plus` 这样的词，表示 `never/nothing/anymore`。
+
+* Tu ne fais pas de sport
+* Tu ne fais jamais de sport
+
+# Opinion
+
+`Savior` 用于表示知道**事实、信息或技能**。`connaître` 则用于表示知道**人或地点**。
+
+* Je sais parler espagnol. (know how to speak)
+* Je connais Marie. (know Marie)
+
+## Je pense que tu as raison!
+
+用 `je pense` 表示 `I know`。
+
+* Je pense que ce film est intéressant. (I know that)
+
+## My friend
+
+`copain/copine` 可用于表示朋友或男/女朋友。
+
+# Friends 2
+
+英语中，像 `me` 一样的代词出现在动词之后，在法语中，它们出现在动词之前。
+
+* Elle me parle.
+* Mes amis me connaissent bien.
+
+## On adore la musique
+
+`On` 是表达**我们**的一种非正式方法，此时相应的代词变位与 `il` 一致。
+
+## Je sais que c'est ton anniversaire!
+
+英语的从句中动词位置与一般陈述句相同，法语中则需要前置。
+
+* Vous savez où est l’hôtel?
+* Nous savons quand part le train.
+
+## J'aime Alice
+
+动词 `aimer` 意为 `to like` 事物或 `to love` 人，对一个人使用 `aimer bien` 吧。
+
+* J'aime bien Sophie.
+
+# Nature
+
+## The smolest
+
+要表达 `the smallest` 的意思，先看名词的性，再选择 `le plus/la plus/les plus`，置于形容词之前。
+
+* C'est le plus petit chien!
+* C'est la plus belle femme du monde!
+
+## J'entends de la musique
+
+表达听到的意思时，使用 `du/de la/des`。
+
+* J'entends de la musique.
+
+# Family 3
+
+## My brother is grand
+
+使用 `grand/petit` 分别表示 `older/younger`。
+
+* Ma grande soeur est gentille.
+* Mon petit frére jour de la guitare. 
+
+## Je ressemble à ma mère
+
+使用 `ressembler à` 表示**长得像**某人或某物。
+
+* Tu ressembles à ta soeur.
+
+## Four twenties?
+
+`vingt-deux` 中的连字符不可省略，如果个位数是1，中间还要加 `et`。
+
+# School 2
+
+## Oooh le la
+
+表达邀请 `him/her/them` 时，使用 `le/la/les`，同时把它们置于动词之前，然后此时的 `le/la` 必要时也需要变为 `l'`。
+
+* Elle le rencontre au café: She meets him at the cafe.
+
+## Je dis bonjour à Laura
+
+表达告诉某人某事，使用 `à`。
+
+* Nous disons à Thomas quand nous partons en vacances.
+
+## Ça marche!
+
+根据上下文的不同，`ça` 可以表示 `it/this/that`。
+
+* Tu aimes ça?: Do you like it?
+* Je ne sais pas dire ça en anglais. (that)
+
+# Food 2
+
+## Je suis en train de dormir
+
+使用 `en train de` 表示**正在做某事**。
+
+## I have a sweet tooth
+
+表达食物的某种**口味**，使用 `à`。
+
+* Je préfère la glace à la vanille. (I prefer vanilla ice cream)
+
+## What are you bringing along?
+
+表达类似于 `I want something to drink`时，使用 `à`。
+
+* J'apporte quelque chose à boire.
+
+# Routine 3
+
+## Mais pourquoi?
+
+诸如 `quand/pourquoi` 这样的疑问词在 `est-ce que` 之前，注意使用 avec 的情况。
+
+* Pourquoi est-ce que tu te réveilles tard?
+* Avec qui est-ce que tu sors?
+
+## Qui est prêt?
+
+当谈及的并非特定的人，默认使用词的阳性形式，除非谈及的全是女性。
+
+# To Know
+
+使用 `savoir` 表示知道事实或如何做某事，使用 `connaître` 表示熟悉某人或某事。
+
+# Travel 4
+
+## Penser à moi
+
+可使用 `penser à` 表示“考虑”。
+
+* Nous pensons à cette chanson.
+
+## Dans un mois, nous allons en France
+
+这里的 `dans`，恰似英语中的 `in`。
+
+# Health
+
+## What must I do?
+
+`Il faut` 用于表示某人应当或不应当做什么。
+
+* Il faut manger des fruits: one must eat fruits.
+
+## Well excusez-moi!
+
+表示 bossy 的语气时，如果动词具有诸如 me/te 这样的代词，那么命令式会表示为 `Réveille-toi`。
+
+## J'ai mal à la tête 
+
+* J'ai mal à la main: My hand hurts.
+
+# Housing
+
+## What have you done?
+
+（第一次）使用某种方式表示过去发生的事情，类似于英语中的 `have done`，不过 `avoir` 有形式变化。
+
+* Nous avons acheté une voiture: We bought a car.
+
+## The big, the good
+
+* le T-shirt rouge: le rouge
+
+# At Work 3
+
+## I just said that
+
+使用 `venir de` 表示某事刚刚发生。
+
+* Nous venons de manger: we just ate.
+
+## J'attends
+
+不像英语中的 `Wait for`，法语中可直接使用 `J'attends Marie`。
+
+## Je donne un cadeau à Jeanne
+
+给某人某物，只能使用此形式，不能使用 `give sb. sth.`。
+
+# Memories
+
+## I was an imparfait student
+
+第三种过去时表示法：描述过去常常做某事，或某事物曾经如何，使用：
+
+* Quand j’étais à l’université, j'etudiais le francais.
+
+## Souviens-toi
+
+法语中，`se souvenir` 之后总是跟着一个 `de`。
+
+* Tu te souviens de tout.
+
+# Leisure 2
+
+## I am arrived
+
+第四种过去时：表示过去的动作，如 `aller/arriver`，使用 `être` 而非 `avoir`。此时 `être` 与其后的动词有性和数的变化。
+
+* Je suis allé en vacances au Japan: I went on vacation to Japan.
+
+## Il faisait très froid 
+
+表示过去的天气，用 `Il y avait` 或 `Il faisait`。
+
+# At Home 3
+
+## Help me to do this
+
+法语中，用 `J'aide à nettoyer la cuisine`，表示帮助做某事。
+
+## Tu m'aides à ranger?
+
+如题，此表达本身为礼貌用语，含 `Should/Can` 之意。
+
+# Commands
+
+## Let's talk about commands
+
+告诉某人做某事，省略 `tu/vous`:
+
+* Prends une salade.
+* Ne reste pas ici: 去掉末尾的 s。
+
+# Travel 5
+
+## Je n'ai pas apporté une veste.
+
+如题，表示否定式。
+
+## Je paye le repas
+
+`Je paye` 可表示 `I am buying` 或 `I am paying`。
+
+# Sentences
+
+* Je vais faire les courses. (go shopping)
+* Je suis plus grande qu'avant
+* Elles sont plus minces que nous
+* Que fais tu le soir? (What do you do in the evening)
+* Tu réserves une chambre dans cet hotel?
 
 # 附录
 
@@ -474,6 +1001,7 @@ venir 变位：
 * 冠词：le/la/les; un/une；因性、数而变化；
 * 形容词：一般是名词之后，但有例外；因性、数而变化；
     - homme content/femme contente/femmes contentes
+    - une nouvelle boulangerie
 * 代词：mon/ma，因性、数而变化；
     - mon frére/ma soeur/mes fréres
     - ton/ta/tes
@@ -485,6 +1013,13 @@ venir 变位：
 ## 与动词
 
 动词因人称而变化，见 `现在时` 一节。
+
+## 冠词
+
+如果名词为复数，而且具体数目不重要，则总是使用 `des`，此时它的意思是 `some`。
+
+* Ils ont un enfant
+* Ils ont des enfants
 
 ## 现在时（Pres Tense）
 
@@ -505,6 +1040,23 @@ venir: viens/vient/venons
 
 * Je dois venir. (I have to come)
 * Je dois manger. (I have to eat)
+
+## 疑问句
+
+有几种表达方式。
+
+* 使用陈述句形式，以问号结束
+* 动词提前：Voyagez-vous avec votre fille?
+* 疑问词：
+    - Est-ce que tu veux du lait? （Do you ...)
+    - Quel train va à Paris? (Which)
+    - Quelle est votre profession (What)
+    - Qu'est ce que tu manges? (What are you eating?)
+    - Tu préfères quoi?
+    - Tu finis à quelle heure? (You finish at what time?)
+    - Combien de journaux voulez-vous? (How many)
+    - Vous voulez rester combien de nuits? (How many)
+    - Vous choisissez quelle date? (Which date are you choosing?)
 
 ## 不规则动词表
 
@@ -529,9 +1081,17 @@ venir: viens/vient/venons
 * sept
 * huit
 * neuf
-* dix
+* dix: ten
 * onze
+* douze
 * treize
+* quatorze
+* quinze
+* seize
+* dix-sept
+* dix-huit
+* dix-neuf
+* vingt
 
 ### 星期
 
@@ -545,11 +1105,16 @@ venir: viens/vient/venons
 
 ### 月份
 
+* mars: March
+* avril: April
+* juillet: July 
 * août: August
 
 ### 季节
 
 * été: summer
+
+### General
 
 * a: 
 * achète: buy
@@ -559,7 +1124,9 @@ venir: viens/vient/venons
 * arbre: tree
 * avion: plane
 * beau: nice
+* besoin: need
 * blanc/blanche: white
+* boire: drink
 * bon/bonne: good
 * bouteille: bottle
 * cafè: coffee
@@ -567,7 +1134,10 @@ venir: viens/vient/venons
 * chaud: hot
 * chauffeur: driver
 * cher: expensive
+* choisir: to choose
+* collègue
 * content: happy
+* couleur
 * croissant: croissant
 * dangereux: dangerous
 * dans: in
@@ -579,16 +1149,20 @@ venir: viens/vient/venons
 * église: church
 * et: and
 * été: summer
+* étudier: to study
 * fille: girl/daughter
+* finir: to finish
 * fleur: flower
 * frére: brother
 * fromage: cheese
 * froid: cold
+* idée: idea
 * immeuble: apartment building
 * intelligent: intelligent/smart/clever
 * intéressant: interesting
 * gentil: kind/nice
 * grand: big
+* horaire: schedule
 * Italie: Italy
 * jardin: garden
 * je: I
@@ -602,12 +1176,15 @@ venir: viens/vient/venons
 * métier: occupation
 * midi: noon
 * moi: me
+* monsieur: sir/mr.
 * noir/noire: black
 * non: no
 * oeuf: egg
 * ou: or
 * ouvert: open
+* pantalon: 
 * parc: park
+* parfaite
 * pays: country
 * personne: person
 * petit: small *
@@ -616,11 +1193,14 @@ venir: viens/vient/venons
 * pomme: apple
 * pont: bridge
 * pour: for
+* pouvez: can
 * près du: close to
 * que: that
+* quelque chose: something/anything
 * robe: dress
 * rue: steet
 * s'il vous plait
+* sais: know
 * salade: salad
 * sandwich
 * soeur: sister
@@ -636,6 +1216,7 @@ venir: viens/vient/venons
 * usine: factory
 * vendredi: Friday
 * verre: glass
+* veste: jacket
 * vetement: clothes
 * veux: want
 * voisin: neighbor
