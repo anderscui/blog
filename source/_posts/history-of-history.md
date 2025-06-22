@@ -4,8 +4,7 @@ date: 2017-06-28 00:59:10
 tags:
   - History
 
-categories:
-  - History
+categories: [History]
 ---
 
 # 序言（葛剑雄）

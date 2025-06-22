@@ -3,8 +3,7 @@ title: golang-packages
 date: 2021-03-14 00:12:27
 tags:
     - Go
-categories:
-    - Go
+categories: [Programming, Go]
 ---
 
 # Go 语言中的 Modules 与 Packages

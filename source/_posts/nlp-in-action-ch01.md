@@ -4,8 +4,7 @@ date: 2019-08-18 02:46:54
 tags:
     - NLP
 
-categories:
-    - NLP
+categories: [NLP]
 ---
 
 # NLP实战

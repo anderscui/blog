@@ -2,7 +2,8 @@
 title: spacy
 date: 2019-08-15 22:52:38
 tags:
-  - NLP, Spacy
+  - NLP
+  - Spacy
 
 categories:
   - NLP

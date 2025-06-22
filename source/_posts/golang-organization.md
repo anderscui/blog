@@ -3,8 +3,7 @@ title: golang-organization
 date: 2021-03-14 11:21:06
 tags:
     - Go
-categories:
-    - Go
+categories: [Programming, Go]
 ---
 
 # Go 程序的代码组织

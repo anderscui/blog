@@ -3,8 +3,7 @@ title: concurrency-in-go
 date: 2021-03-22 01:05:26
 tags:
     - Go
-categories:
-    - Go
+categories: [Programming, Go]
 ---
 
 # Concurrency in Go

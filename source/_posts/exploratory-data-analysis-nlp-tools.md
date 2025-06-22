@@ -2,10 +2,12 @@
 title: exploratory-data-analysis-nlp-tools
 date: 2020-07-30 10:42:26
 tags:
-  - NLP, Exploratory Data Analysis
+  - NLP
+  - Data Analysis
 
 categories:
-  - NLP
+  - [NLP]
+  - [Data Analysis]
 ---
 
 [原文链接](https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools)

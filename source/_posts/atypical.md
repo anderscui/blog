@@ -2,8 +2,11 @@
 title: 非典型孤独（atypical）
 date: 2017-10-03 17:42:37
 tags:
-	- Movie
-	- 电影
+  - Psychology
+  - Movie
+categories: 
+  - [Psychology]
+  - [Movie]
 ---
 
 来自美剧[非典型孤独（Atypical）](https://movie.douban.com/subject/26895435/)

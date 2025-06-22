@@ -2,8 +2,9 @@
 title: 《幸福课》笔记
 date: 2017-09-24 04:08:04
 tags:
-	- 心理学
+	- Psychology
 	- 幸福心理学
+categories: [Psychology, 幸福心理学]
 ---
 
 [原书信息](https://book.douban.com/subject/27050457/)

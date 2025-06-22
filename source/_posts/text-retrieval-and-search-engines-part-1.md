@@ -5,9 +5,7 @@ tags:
   - Text Retrieval
   - Information Retrieval
 
-categories:
-  - Text Retrieval
-  - Information Retrieval
+categories: [NLP, Text Retrieval]
 ---
 
 此文内容整理自Coursera课程[文本检索与搜索引擎（Text Retrieval and Search Engines）](https://www.coursera.org/learn/text-retrieval/home/welcome)。

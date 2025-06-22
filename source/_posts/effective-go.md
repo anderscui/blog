@@ -3,8 +3,7 @@ title: effective-go
 date: 2021-03-14 14:37:54
 tags:
     - Go
-categories:
-    - Go
+categories: [Programming, Go]
 ---
 
 # Effective Go

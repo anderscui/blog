@@ -4,8 +4,7 @@ date: 2019-05-10 22:26:38
 tags:
   - Python
 
-categories:
-  - Programming
+categories: [Programming, Python]
 ---
 
 本文主要整理自《Fluent Python》的第14章。

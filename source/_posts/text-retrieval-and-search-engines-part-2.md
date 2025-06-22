@@ -1,12 +1,11 @@
 ---
 title: Text Retrieval and Search Engines(2)
+date: 2017-07-09 01:08:41
 tags:
   - Text Retrieval
   - Information Retrieval
-categories:
-  - Text Retrieval
-  - Information Retrieval
-date: 2017-07-09 01:08:41
+
+categories: [NLP, Text Retrieval]
 ---
 
 

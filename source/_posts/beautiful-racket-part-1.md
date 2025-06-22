@@ -2,11 +2,11 @@
 title: beautiful-racket-part-1
 date: 2020-10-03 16:25:00
 tags:
-  - FP, Racket
+  - FP
+  - Racket
 
-categories:
-  - FP, Racket
-    
+categories: 
+  - [FP, Racket]
 ---
 
 # Foreword by Matthew Flatt

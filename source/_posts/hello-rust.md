@@ -4,6 +4,7 @@ date: 2017-09-24 23:06:09
 tags:
 	- Programming
 	- Rust
+categories: [Programming, Rust]
 ---
 
 # 安装

@@ -2,8 +2,9 @@
 title: 关于拖延症与意志力
 date: 2017-06-28 00:54:03
 tags:
-  - Life
+  - Psychology
   - Procrastination
+categories: [Psychology, Procrastination]
 ---
 
 误区

@@ -3,6 +3,7 @@ title: Hexo的安装与配置
 date: 2017-06-27 01:45:39
 tags:
   - Hexo
+categories: [Hexo]
 ---
 
 可能是npm的问题，也可能是Hexo的问题，总之：
