@@ -5,9 +5,9 @@
 # Site
 title: mathacker 
 subtitle: no math, little hacker
-description:
+description: 时光中的碎片
 author: Anders Cui
-language: en 
+language: en
 timezone: Asia/Shanghai
 
 # URL
@@ -63,11 +63,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next 
+theme: next
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/anderscui/anderscui.github.io.git
+  repo: git@github.com:anderscui/anderscui.github.io.git
   branch: master
