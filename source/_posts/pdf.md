@@ -25,6 +25,8 @@ from a de facto to an ISO standard.
 
 1985年，Adobe 引入了 PostScript Page Description Language。同年，Adobe 也开发了 Adobe Illustrator。这两款产品引发了桌面 publishing 的革命。但 Adobe 的创建者们感觉还缺少了点什么。
 
+<!-- more -->
+
 1991年，John Warnock 写了 Carmelot Paper，在其中写道：
 
 一个特别的问题是，大多数程序可以打印至不同的打印机，但没有一种通用的方式来通信和查看这些打印信息。行业所亟需的是在不同的机器配置、OS、网络之间的通用通信机制。

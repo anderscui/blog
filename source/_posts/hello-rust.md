@@ -15,6 +15,8 @@ $ curl https://sh.rustup.rs -sSf | sh
 
 运行此命令，按其中的提示安装即可。
 
+<!-- more -->
+
 ## 升级与卸载
 
 ```

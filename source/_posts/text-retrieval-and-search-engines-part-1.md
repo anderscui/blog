@@ -33,6 +33,8 @@ categories:
 * Bit Vector：位向量
 * Dot Product：点积
 
+<!-- more -->
+
 # 1、文本检索基本概念
 
 第一部分将涵盖上图中1-5部分的内容。

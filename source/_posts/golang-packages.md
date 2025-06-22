@@ -34,6 +34,8 @@ module andersc.com/hello
 go 1.15
 ```
 
+<!-- more -->
+
 ## 编辑代码
 
 ```go

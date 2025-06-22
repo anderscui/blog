@@ -25,6 +25,8 @@ date: 2017-07-09 01:08:41
 * Binary coding，unary coding，gamma-coding和d-gap
 * Zipf法则
 
+<!-- more -->
+
 在[Part 1](https://anderscui.github.io/2017/07/04/text-retrieval-and-search-engines-part-1/)中介绍了”最简单的VSM“（以下简称SVSM），看下图，考虑该模型是否存在问题？
 
 ![Two Problems of the SVSM](/images/text-retrieval/problems-of-svsm.png)

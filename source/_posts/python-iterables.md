@@ -14,6 +14,8 @@ categories:
 
 Python 2.2（2001）添加了`yield`关键字，用以构造**生成器（generator）**，生成器可达成迭代器的效果。而且，在Python社区中，生成器与迭代器同义。
 
+<!-- more -->
+
 Python中的每个集合（collection）都是**可迭代的（iterable）**。迭代器在内部用于：
 
 * for 循环
