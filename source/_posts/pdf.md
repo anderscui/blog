@@ -2,8 +2,8 @@
 title: Under the hood of PDF
 date: 2021-04-30 12:03:29
 tags:
-  - IO
-categories: [IO]
+  - Programming
+categories: [Programming, IO]
 ---
 
 refs:
